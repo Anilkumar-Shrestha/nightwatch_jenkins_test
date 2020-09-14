@@ -29,8 +29,8 @@ module.exports = {
   test_settings: {
     default: {
       disable_error_log: false,
-      launch_url: 'https://www.dotdash.com',
-      // launch_url: 'https://www.ultimateqa.com',
+      // launch_url: 'https://www.dotdash.com',
+      launch_url: 'https://www.ultimateqa.com',
 
       screenshots: {
         enabled: false,
